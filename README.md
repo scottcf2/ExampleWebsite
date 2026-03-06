@@ -5,7 +5,6 @@ A simple personal CV website built with HTML and CSS.
 ## Project Structure
 
 - `index.html` - Main homepage.
-- `modelindex.html` - Additional/alternate page.
 - `mystyles.css` - Shared stylesheet.
 
 ## Requirements
@@ -27,4 +26,5 @@ A simple personal CV website built with HTML and CSS.
 ## Notes
 
 - Save changes in VS Code to auto-refresh the page in your browser.
+
 
