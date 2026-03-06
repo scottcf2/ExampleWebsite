@@ -1,0 +1,24 @@
+.leftAlign {
+    text-align: left;
+}
+
+h2 {
+    font-size: 25pt;
+    color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.unique {
+    font-size: 25pt;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+h3 {
+    font-size: 14pt;
+    color: deepskyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold italic;
+}
